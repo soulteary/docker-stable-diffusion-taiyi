@@ -63,3 +63,8 @@ services:
 
 如果你想了解如何从零开始配置 GPU 云服务器环境，或者想了解这个 Stable Diffusion 容器运行环境是如何构建的，可以继续阅读[这篇文章](https://soulteary.com/2022/12/09/use-docker-to-quickly-get-started-with-the-chinese-stable-diffusion-model-taiyi.html)。
 
+## 相关项目
+
+- [“封神榜”模型](https://github.com/IDEA-CCNL/Fengshenbang-LM)
+- [“太乙”的 Web UI](https://github.com/IDEA-CCNL/stable-diffusion-webui)
+- [Huggingface 项目页面](https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1)
